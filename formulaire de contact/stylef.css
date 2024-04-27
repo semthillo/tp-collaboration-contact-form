@@ -1,0 +1,44 @@
+body{
+    background: url('tech4m.jpg' )no-repeat;
+    text-align: center;
+    backdrop-filter: blur(5px);
+ 
+  
+}
+
+.container{
+ 
+  margin:
+  40px 50px 50px 50px;
+   
+    
+}
+
+.container label{
+    font-size: 1.3rem;
+}
+
+.container input{
+    border: 2px solid rgb(30, 33, 39);
+    background-color: transparent;
+    width: 200px;
+    height: 25px;
+   
+    border-radius: 15px;
+    
+    right: 20px;
+    top: 50%;
+}
+textarea{
+    border: 2px solid rgb(13, 15, 19);
+    background-color: transparent;
+    border-radius: 20px;
+    
+}
+button{
+    width: 80px;
+    height: 35px;
+    border-radius: 30px;
+    background-color: black;
+    color: azure;
+}
